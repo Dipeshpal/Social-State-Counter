@@ -17,8 +17,17 @@ pip install requests
 
 For more information-
 
-[pip install lxml](https://pypi.org/project/lxml/)
+  [pip install lxml](https://pypi.org/project/lxml/)
 
-[pip install bs4](https://pypi.org/project/bs4/)
+  [pip install bs4](https://pypi.org/project/bs4/)
 
-[pip install requests](https://pypi.org/project/requests/)
+  [pip install requests](https://pypi.org/project/requests/)
+ 
+ 
+Once you install all these packages then simply run the scripts.
+
+Options you have-
+
+1. You can setup your own Channel, Page or Accounts.
+   
+   You need to open `Social Stats Counter.py` file and set your YouTube Channel URL, Instagram Profile URL and Twitter ID and Script will do rest of the things.
