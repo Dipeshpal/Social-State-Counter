@@ -36,4 +36,4 @@ You can use this Script no need to give credits.
 But yuu can thanks me by Subscribe on YouTube. [SUBSCRIBE NOW](https://www.youtube.com/DIPESHPAL17)
 
 
-** Video tutorial coming soon**
+**Video tutorial coming soon**
