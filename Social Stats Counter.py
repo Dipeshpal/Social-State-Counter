@@ -4,6 +4,7 @@ import requests
 
 def youtube():
     try:
+        # Set your YouTube Channel URL here
         url = 'https://www.youtube.com/channel/UCGEoRAK92fUk2kY3kSJMR_Q'
     except:
         print("Channel  not found")
@@ -21,6 +22,7 @@ def youtube():
 
 
 def instagram():
+    # Set your Instagram ID here
     user = "dipesh_pal17"
     url = 'https://www.instagram.com/' + user
     r = requests.get(url).text
@@ -34,6 +36,7 @@ def instagram():
 
 
 def twitter():
+    # Set your Twitter ID here
     handle = 'Dipesh17Pal'
     temp = requests.get('https://twitter.com/'+handle)
     bs = BeautifulSoup(temp.text, 'lxml')
